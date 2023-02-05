@@ -1,0 +1,15 @@
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Untilities.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Untilities.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CopyComplete
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb

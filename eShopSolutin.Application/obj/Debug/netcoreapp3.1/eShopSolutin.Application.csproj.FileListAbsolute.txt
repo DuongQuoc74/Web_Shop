@@ -1,0 +1,17 @@
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.csproj.AssemblyReference.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.AssemblyInfoInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.AssemblyInfo.cs
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.csproj.CoreCompileInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolutin.Application.deps.json
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolutin.Application.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolutin.Application.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.Untilities.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.Untilities.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.csproj.CopyComplete
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolutin.Application\obj\Debug\netcoreapp3.1\eShopSolutin.Application.pdb

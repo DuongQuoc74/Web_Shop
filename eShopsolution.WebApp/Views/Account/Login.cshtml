@@ -1,0 +1,56 @@
+﻿@using eShopSolution.ViewModels.System.Users;
+@model LoginRequest
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var culture = CultureInfo.CurrentCulture.Name;
+}
+
+<ul class="breadcrumb">
+    <li><a asp-action="Index" asp-controller="Home">Home</a> <span class="divider">/</span></li>
+    <li class="active">Login</li>
+</ul>
+<h3> Login</h3>
+<hr class="soft" />
+
+<div class="row">
+    <div class="span4">
+        <div class="well">
+            <h5><localize>CREATE YOUR ACCOUNT</localize></h5><br />
+
+            <div class="controls">
+                <a href="/@culture/Account/Create" class="btn block">Create Your Account</a>
+            </div>
+
+        </div>
+    </div>
+    <div class="span1"> &nbsp;</div>
+    <div class="span4">
+        <div class="well">
+            <h5>ALREADY REGISTERED ?</h5>
+            <form asp-action="Login" asp-controller="Account" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-error"></div>
+                <div class="control-group">
+                    <label class="control-label" for="inputUsername">User name</label>
+                    <div class="controls">
+                        <input type="text" asp-for="UserName" placeholder="Password">
+                        <span asp-validation-for="UserName" class="text-error"></span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputPassword1">Password</label>
+                    <div class="controls">
+                        <input type="password" asp-for="PassWord" placeholder="Password">
+                        <span asp-validation-for="PassWord" class="text-error"></span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" class="btn">Sign in</button> <a href="forgetpass.html">Forget password?</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
