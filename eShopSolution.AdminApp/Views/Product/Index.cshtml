@@ -78,9 +78,7 @@
                             <th>
                                 Số lượng SP
                             </th>
-                            <th>
-                                Chi tiết SP
-                            </th>
+                          
                         </tr>
                     </thead>
                     <tbody>
@@ -103,9 +101,7 @@
                                 <td>
                                     @Html.DisplayFor(modelItem => item.Stock)
                                 </td>
-                                <td>
-                                    @Html.DisplayFor(modelItem => item.Details)
-                                </td>
+                                
                                 <td>
                                     @Html.ActionLink("Sửa", "Edit", new { id=item.Id }) |
                                     @Html.ActionLink("Chi tiết", "Details", new { id=item.Id }) |
