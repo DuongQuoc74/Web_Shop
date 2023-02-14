@@ -1,0 +1,17 @@
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.AssemblyInfo.cs
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.ApiIntegration.deps.json
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.ApiIntegration.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.ApiIntegration.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.Untilities.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.ViewModels.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.Untilities.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\bin\Debug\net6.0\eShopSolution.ViewModels.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.csproj.CopyComplete
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\refint\eShopSolution.ApiIntegration.dll
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\eShopSolution.ApiIntegration.pdb
+D:\Data\Homes\File.Net\Projects\eShopsolution\eShopSolution.ApiIntegration\obj\Debug\net6.0\ref\eShopSolution.ApiIntegration.dll

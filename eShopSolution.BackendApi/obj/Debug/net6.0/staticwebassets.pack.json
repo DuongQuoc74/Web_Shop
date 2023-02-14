@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\364bf6d0-601a-4a4e-b235-5fba3eee3b61.jpg",
+      "PackagePath": "staticwebassets\\user_content\\364bf6d0-601a-4a4e-b235-5fba3eee3b61.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\44eddcc2-d2a0-4940-96d8-31fb83857ac7.jpg",
+      "PackagePath": "staticwebassets\\user_content\\44eddcc2-d2a0-4940-96d8-31fb83857ac7.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\5f82c31d-16d6-40cb-a71b-c3085f217a5e.jpg",
+      "PackagePath": "staticwebassets\\user_content\\5f82c31d-16d6-40cb-a71b-c3085f217a5e.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\7c1044ab-c775-43e4-9c92-975bfb75924c.jpg",
+      "PackagePath": "staticwebassets\\user_content\\7c1044ab-c775-43e4-9c92-975bfb75924c.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\942bef5c-4044-4d38-933f-1caecdc67f60.jpg",
+      "PackagePath": "staticwebassets\\user_content\\942bef5c-4044-4d38-933f-1caecdc67f60.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\b26ffc3c-1d52-4e68-b561-0af66d7930cd.jpg",
+      "PackagePath": "staticwebassets\\user_content\\b26ffc3c-1d52-4e68-b561-0af66d7930cd.jpg"
+    },
+    {
+      "Id": "D:\\Data\\Homes\\File.Net\\Projects\\eShopsolution\\eShopSolution.BackendApi\\wwwroot\\user_content\\d2adabd3-ae3d-4518-8543-d8681b6ca7e4.jpg",
+      "PackagePath": "staticwebassets\\user_content\\d2adabd3-ae3d-4518-8543-d8681b6ca7e4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eShopSolution.BackendApi.props",
+      "PackagePath": "build\\eShopSolution.BackendApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eShopSolution.BackendApi.props",
+      "PackagePath": "buildMultiTargeting\\eShopSolution.BackendApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eShopSolution.BackendApi.props",
+      "PackagePath": "buildTransitive\\eShopSolution.BackendApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eShopSolution.BackendApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
