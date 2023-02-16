@@ -13,7 +13,7 @@ namespace eShopsolution.Data.Extensions
     //Data seeding
     public static class ModelBuilderExtensions
     {
-        public static void seed(this ModelBuilder modelBuilder)
+        public static void Seed(this ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<AppConfig>().HasData(
                 new AppConfig() { Key = "HomeTitle", Value = "This is home page of eShopSolution" },
